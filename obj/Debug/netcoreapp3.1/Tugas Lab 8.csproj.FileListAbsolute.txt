@@ -1,0 +1,11 @@
+D:\Tugas AMIKOM\Semester 2\Pemrograman\Tugas Lab 8\obj\Debug\netcoreapp3.1\Tugas Lab 8.csprojAssemblyReference.cache
+D:\Tugas AMIKOM\Semester 2\Pemrograman\Tugas Lab 8\obj\Debug\netcoreapp3.1\Tugas Lab 8.AssemblyInfoInputs.cache
+D:\Tugas AMIKOM\Semester 2\Pemrograman\Tugas Lab 8\obj\Debug\netcoreapp3.1\Tugas Lab 8.AssemblyInfo.cs
+D:\Tugas AMIKOM\Semester 2\Pemrograman\Tugas Lab 8\bin\Debug\netcoreapp3.1\Tugas Lab 8.exe
+D:\Tugas AMIKOM\Semester 2\Pemrograman\Tugas Lab 8\bin\Debug\netcoreapp3.1\Tugas Lab 8.deps.json
+D:\Tugas AMIKOM\Semester 2\Pemrograman\Tugas Lab 8\bin\Debug\netcoreapp3.1\Tugas Lab 8.runtimeconfig.json
+D:\Tugas AMIKOM\Semester 2\Pemrograman\Tugas Lab 8\bin\Debug\netcoreapp3.1\Tugas Lab 8.runtimeconfig.dev.json
+D:\Tugas AMIKOM\Semester 2\Pemrograman\Tugas Lab 8\bin\Debug\netcoreapp3.1\Tugas Lab 8.dll
+D:\Tugas AMIKOM\Semester 2\Pemrograman\Tugas Lab 8\bin\Debug\netcoreapp3.1\Tugas Lab 8.pdb
+D:\Tugas AMIKOM\Semester 2\Pemrograman\Tugas Lab 8\obj\Debug\netcoreapp3.1\Tugas Lab 8.dll
+D:\Tugas AMIKOM\Semester 2\Pemrograman\Tugas Lab 8\obj\Debug\netcoreapp3.1\Tugas Lab 8.pdb
